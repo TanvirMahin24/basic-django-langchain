@@ -1,0 +1,4 @@
+Django>=6.0
+langchain>=1.2
+langchain-google-genai>=4.2
+python-dotenv>=1.2
